@@ -1,9 +1,13 @@
-# Exercício 2 de SQL
+# Exercício 2 — Banco de Dados
 
-Repositório criado para guardar o material de uma atividade prática de banco de dados.
+Repositório criado para organizar o material em PDF de uma atividade acadêmica relacionada aos estudos de banco de dados.
 
-## Arquivo
+## Material
 
-- `pgadmin.pdf`: material em PDF relacionado à atividade.
+- `pgadmin.pdf`: arquivo de apoio da atividade.
+
+## Contexto
+
+Este repositório reúne material de estudo. O PDF deve ser consultado para verificar os enunciados e os procedimentos da atividade.
 
 Atividade realizada durante meus estudos de SQL e PostgreSQL.
